@@ -1,0 +1,1 @@
+{"version":3,"file":"gql.config.js","sourceRoot":"","sources":["../../src/config/gql.config.ts"],"names":[],"mappings":";;AAAA,iCAAiC;AAGjC,MAAM,SAAS,GAAG,MAAM,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;AAEvB,QAAA,aAAa,GAAoB;IAC5C,cAAc,EAAE,SAAS,CAAC,cAAc;IACxC,OAAO,EAAE,CAAC,EAAC,GAAG,EAAC,EAAE,EAAE,CAAC,CAAC,EAAE,OAAO,EAAE,GAAG,CAAC,OAAO,EAAC,CAAC;CAC9C,CAAC"}
